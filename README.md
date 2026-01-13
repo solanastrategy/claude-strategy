@@ -1,4 +1,7 @@
 # claude strategy ($claude)
+
+X: https://x.com/claudestrategyy
+
 <img width="1024" height="1024" alt="Gemini_Generated_Image_n7vge3n7vge3n7vg" src="https://github.com/user-attachments/assets/525bd0a4-eb1f-42e8-940f-63a02580759f" />
 
 claude strategy is an autonomous treasury experiment on solana. the system is controlled by an autonomous agent, not by a manual script. the agent uses claude opus 4.5 as the decision engine and ingests real-time solana data from helius. 
