@@ -1,0 +1,11 @@
+node_modules
+dist
+target
+.env
+/.turbo
+pnpm-lock.yaml
+*.log
+/.next
+/.idea
+*.so
+*.dSYM
