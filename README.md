@@ -1,4 +1,4 @@
-# claude strategy ($claude)
+# Claude Strategy ($claude)
 
 X: https://x.com/claudestrategyy
 
