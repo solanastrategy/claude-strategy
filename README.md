@@ -1,7 +1,5 @@
 # claude strategy ($claude)
 
-CA: 5PELRQcfHeh5g5QBh9yYKZ5Gg55C9frrsgd1GGHRpump
-
 X: https://x.com/claudestrategyy
 
 <img width="1024" height="1024" alt="Gemini_Generated_Image_n7vge3n7vge3n7vg" src="https://github.com/user-attachments/assets/525bd0a4-eb1f-42e8-940f-63a02580759f" />
