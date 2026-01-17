@@ -2,7 +2,7 @@
 
 X: https://x.com/claudestrategyy
 Community: 
-https://x.com/i/communities/2011802251396821335
+[https://x.com/i/communities/2011802251396821335](https://x.com/i/communities/2011867291600691582)
 
 <img width="1024" height="1024" alt="Gemini_Generated_Image_n7vge3n7vge3n7vg" src="https://github.com/user-attachments/assets/525bd0a4-eb1f-42e8-940f-63a02580759f" />
 
